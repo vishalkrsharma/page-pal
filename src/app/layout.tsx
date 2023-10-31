@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'PaperChat',
+  title: 'PagePal',
   description: 'App which lets you chat to your PDFs',
 };
 
